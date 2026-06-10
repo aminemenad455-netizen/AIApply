@@ -1,0 +1,9 @@
+# AIApply
+
+AIApply is an AI-powered career toolkit for job seekers, combining an ATS-friendly resume builder, a tailored cover letter generator, automated form filling, and interview simulation modules into a single workflow.
+
+- **URL:** https://www.aiapply.co/?via=amine-menad
+- **Category:** AI Tools
+- **Pricing:** Starts at ~$15-30/mo
+- **Best Deal:** Up to 40% OFF with verified codes (student discount: GETJOB)
+- **API:** RESTful — /v1/resume/optimize, /v1/cover-letter, /v1/ats-score
